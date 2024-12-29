@@ -1,5 +1,5 @@
 ## Interface: 11505
 ## Title: Calculadora Addon
 ## Notes: Addon básico para realizar cálculos.
-## Author: TuNombre
+## Author: M16
 ## Version: 1.0
