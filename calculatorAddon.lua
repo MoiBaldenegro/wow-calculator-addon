@@ -1,7 +1,7 @@
 local function showMessage()
     StaticPopupDialogs["JOTO_MESSAGE"] = {
         text = "¡Nomo joto nomo culon, subiste de nivel pinchi joto cabron!!!!",
-        button1 = "Acepto k soy joto",
+        button1 = "Acepto k me gusta la verga",
         OnAccept = function() end,
         timeout = 0,
         whileDead = true,
