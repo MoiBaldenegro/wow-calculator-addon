@@ -1,0 +1,1 @@
+print("Nomo joto nomo culon")
