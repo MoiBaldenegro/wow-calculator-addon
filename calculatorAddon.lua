@@ -1,4 +1,3 @@
-
 local function showMessage()
     StaticPopupDialogs["JOTO_MESSAGE"] = {
         text = "¡Nomo joto nomo culon!!!!",
@@ -12,6 +11,6 @@ local function showMessage()
     StaticPopup_Show("JOTO_MESSAGE")
 end
 
--- Registrar el comando /joto
+
 SLASH_JOTO1 = "/joto"
-SlashCmdList["JOTO"] = mostrarMensaje
+SlashCmdList["JOTO"] = showMessage 
