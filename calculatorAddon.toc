@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 11505
 ## Title: Calculadora Addon
 ## Notes: Addon básico para realizar cálculos.
 ## Author: M16
