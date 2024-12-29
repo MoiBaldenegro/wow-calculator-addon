@@ -1,6 +1,6 @@
-## Interface: 11302
+## Interface: 11505
 ## Title: Calculator
 ## Notes: Vamos a mostrar unos mensajes bonitos
 ## Author: M16
 ## Version: 1.0
-calculatorAddon.lua
+calculator.lua
