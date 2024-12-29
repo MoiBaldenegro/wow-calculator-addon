@@ -1,6 +1,6 @@
-## Interface: 11505
-## Title: Calculadora Addon
-## Notes: Addon básico para realizar cálculos.
+## Interface: 11302
+## Title: Calculator
+## Notes: Vamos a mostrar unos mensajes bonitos
 ## Author: M16
 ## Version: 1.0
 calculatorAddon.lua
