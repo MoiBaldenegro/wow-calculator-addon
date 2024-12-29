@@ -3,3 +3,4 @@
 ## Notes: Addon básico para realizar cálculos.
 ## Author: M16
 ## Version: 1.0
+calculatorAddon.lua
